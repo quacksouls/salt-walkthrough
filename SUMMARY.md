@@ -11,3 +11,4 @@
 - [Sunken Keep](doc/sunken-keep.md)
 - [Bandit's Pass](doc/bandits-pass.md)
 - [Castle of Storms](doc/castle-storms.md)
+- [Red Hall of Cages](doc/red-hall-cages.md)
