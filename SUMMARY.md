@@ -7,3 +7,4 @@
 - [Shivering Shore](doc/shivering-shore.md)
 - [The Festering Banquet](doc/festering-banquet.md)
 - [Village of Smiles](doc/village-smiles.md)
+- [The Watching Woods](doc/watching-woods.md)
