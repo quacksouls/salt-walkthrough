@@ -10,3 +10,4 @@
 - [The Watching Woods](doc/watching-woods.md)
 - [Sunken Keep](doc/sunken-keep.md)
 - [Bandit's Pass](doc/bandits-pass.md)
+- [Castle of Storms](doc/castle-storms.md)
