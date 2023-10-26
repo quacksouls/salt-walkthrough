@@ -9,3 +9,4 @@
 - [Village of Smiles](doc/village-smiles.md)
 - [The Watching Woods](doc/watching-woods.md)
 - [Sunken Keep](doc/sunken-keep.md)
+- [Bandit's Pass](doc/bandits-pass.md)
