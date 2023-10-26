@@ -15,3 +15,4 @@
 - [Hager's Cavern](doc/hagers-cavern.md)
 - [Mire of Stench](doc/mire-stench.md)
 - [Redshift Brand & Drowned Censer](doc/redshift-brand.md)
+- [Dome of the Forgotten](doc/dome-forgotten.md)
