@@ -13,3 +13,4 @@
 - [Castle of Storms](doc/castle-storms.md)
 - [Red Hall of Cages](doc/red-hall-cages.md)
 - [Hager's Cavern](doc/hagers-cavern.md)
+- [Mire of Stench](doc/mire-stench.md)
