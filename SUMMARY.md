@@ -14,3 +14,4 @@
 - [Red Hall of Cages](doc/red-hall-cages.md)
 - [Hager's Cavern](doc/hagers-cavern.md)
 - [Mire of Stench](doc/mire-stench.md)
+- [Redshift Brand & Drowned Censer](doc/redshift-brand.md)
