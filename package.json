@@ -1,6 +1,6 @@
 {
   "name": "salt-walkthrough",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Beginner's walkthrough of Salt and Sanctuary",
   "main": "index.js",
   "scripts": {
