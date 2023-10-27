@@ -17,3 +17,4 @@
 - [Redshift Brand & Drowned Censer](doc/redshift-brand.md)
 - [Dome of the Forgotten](doc/dome-forgotten.md)
 - [Ziggurat of Dust](doc/ziggurat-dust.md)
+- [The Ruined Temple](doc/ruined-temple.md)
