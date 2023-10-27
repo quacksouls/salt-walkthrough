@@ -21,3 +21,4 @@
 - [Mal's Floating Castle](doc/mals-floating-castle.md)
 - [Salt Alkymancery](doc/salt-alkymancery.md)
 - [Pitchwoods](doc/pitchwoods.md)
+- [Wrap up various quest lines](doc/wrap-up.md)
