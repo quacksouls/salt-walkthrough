@@ -18,3 +18,4 @@
 - [Dome of the Forgotten](doc/dome-forgotten.md)
 - [Ziggurat of Dust](doc/ziggurat-dust.md)
 - [The Ruined Temple](doc/ruined-temple.md)
+- [Mal's Floating Castle](doc/mals-floating-castle.md)
