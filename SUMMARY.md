@@ -23,3 +23,4 @@
 - [Pitchwoods](doc/pitchwoods.md)
 - [Wrap up various quest lines](doc/wrap-up.md)
 - [Crypt of Dead Gods](doc/crypt.md)
+- [The Still Palace](doc/still-palace.md)
