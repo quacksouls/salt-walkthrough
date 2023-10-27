@@ -20,3 +20,4 @@
 - [The Ruined Temple](doc/ruined-temple.md)
 - [Mal's Floating Castle](doc/mals-floating-castle.md)
 - [Salt Alkymancery](doc/salt-alkymancery.md)
+- [Pitchwoods](doc/pitchwoods.md)
